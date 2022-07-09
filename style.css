@@ -1,0 +1,76 @@
+* {
+    /* background-color: #0D0D0D; */
+    background-color: goldenrod;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.background-img-top {
+    background-image: url(img/banner.png);
+}
+
+/* .init-text {
+    margin-top: 87px;
+    margin-right: 0px;
+    margin-bottom: 86px;
+    margin-left: 100px;
+} */
+
+.mar-inv-ken {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    color: #F1F3F5;
+}
+
+.text-caps {
+    font-family: Poppins;
+    font-size: 20px;
+    color: #F1F3F5;
+}
+
+.text-non-caps {
+    font-family: Poppins;
+    font-size: 18px;
+    color: #F1F3F5;
+}
+
+.temporadas {
+    font-family: Poppins;
+    font-size: 20px;
+    color: #F1F3F5;
+    margin-bottom: 43px;
+}
+
+.temp-temp {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 60px;
+}
+
+.temp-all,
+.temp-1,
+.temp-2,
+.temp-3 {
+    font-family: Poppins;
+    font-size: 16px;
+    color: #F1F3F5;
+}
+
+.margin {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 50px;
+    gap: 10px;
+    left: 270px;
+    border: 2px solid #FFFFFF;
+    border-radius: 32px;
+}
